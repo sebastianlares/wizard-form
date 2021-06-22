@@ -1,4 +1,4 @@
-# Wizard Form - Challengue Técnico
+# Wizard Form - Challenge Técnico
 
 ## Objetivo
 
