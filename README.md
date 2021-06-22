@@ -2,9 +2,9 @@
 
 ## Objetivo
 
-Recrear el formulario provisto usando React, Bootstrap y Sass.
-El formulario debe ser reponsivo en todos los dispositivos.
-Link al Formulario original: https://www.smartsolarsavings.com/v4/
+- Recrear el formulario provisto usando React, Bootstrap y Sass.
+- El formulario debe ser reponsivo en todos los dispositivos.
+- Link al Formulario original: https://www.smartsolarsavings.com/v4/
 
 ## Como acceder al repositorio
 
