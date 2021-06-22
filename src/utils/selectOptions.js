@@ -1,0 +1,16 @@
+export const selectOptions = [
+  "City of Plattsburgh",
+  "City of Salamanca",
+  "Jamestown Board of Public Utilities",
+  "Lake Placid Village",
+  "Long Island Power Authority",
+  "Steuben Rural Electric",
+  "Town of Massena",
+  "Village of Arcade",
+  "Village of Fairport",
+  "Village of Freeport",
+  "Village of Rockville Center",
+  "Village of Rouses Point",
+  "Village of Solvay",
+  "OTHER PROVIDER",
+];
