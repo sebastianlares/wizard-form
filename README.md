@@ -1,10 +1,4 @@
-# Wizard Form - Challenge Técnico
-
-## Objetivo
-
-- Recrear el formulario provisto usando React, Bootstrap y Sass.
-- El formulario debe ser reponsivo en todos los dispositivos.
-- Link al Formulario original: https://www.smartsolarsavings.com/v4/
+# Wizard Form 
 
 ## Como acceder al repositorio
 
